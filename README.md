@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shaotaihua33
+- 👀 I’m interested in Software Engineering student exploring Go. 
+- 🌱 I’m currently learning Excited about system design and creating efficient, scalable solutions.
